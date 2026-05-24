@@ -24,3 +24,4 @@
 - Commit 23: add XGBoost training for boosted gradient-based classification.
 - Commit 24: tune XGBoost regularization and tree sampling settings.
 - Commit 25: add cross-validation scoring for model comparison stability.
+- Commit 26: export the confusion matrix visualization for evaluation.
