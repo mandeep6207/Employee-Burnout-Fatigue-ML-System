@@ -25,3 +25,4 @@
 - Commit 24: tune XGBoost regularization and tree sampling settings.
 - Commit 25: add cross-validation scoring for model comparison stability.
 - Commit 26: export the confusion matrix visualization for evaluation.
+- Commit 27: export feature importance analysis for interpretability.
