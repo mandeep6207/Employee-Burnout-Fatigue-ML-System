@@ -19,3 +19,4 @@
 - Commit 18: add the stratified train/test split and evaluation framing.
 - Commit 19: add logistic regression training as the first benchmark classifier.
 - Commit 20: tune logistic regression regularization for stronger generalization.
+- Commit 21: add random forest training for nonlinear behavioral patterns.
