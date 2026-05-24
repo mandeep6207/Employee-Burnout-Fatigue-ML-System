@@ -27,3 +27,4 @@
 - Commit 26: export the confusion matrix visualization for evaluation.
 - Commit 27: export feature importance analysis for interpretability.
 - Commit 28: export metrics JSON, classification report, and project summary.
+- Commit 29: build the notebook analysis workflow for reproducible review.
