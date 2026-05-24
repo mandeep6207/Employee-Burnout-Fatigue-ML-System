@@ -1,0 +1,1 @@
+"""BurnoutSense AI package."""

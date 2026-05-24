@@ -1,0 +1,30 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.9225,
+    "precision": 0.8699531284694272,
+    "recall": 0.9435936110144255,
+    "f1": 0.8996145364201437,
+    "cv_f1_mean": 0.9107018741448751,
+    "cv_f1_std": 0.009679087439016704
+  },
+  "Random Forest": {
+    "accuracy": 0.9125,
+    "precision": 0.8891234654781454,
+    "recall": 0.9163110784528582,
+    "f1": 0.9017173887098698,
+    "cv_f1_mean": 0.893240541965198,
+    "cv_f1_std": 0.02329423434010117
+  },
+  "XGBoost": {
+    "accuracy": 0.925,
+    "precision": 0.9241879108545775,
+    "recall": 0.925496212072381,
+    "f1": 0.9246800022283072,
+    "cv_f1_mean": 0.9147341672510715,
+    "cv_f1_std": 0.006802441508461751
+  },
+  "best_model": "XGBoost",
+  "best_model_f1": 0.9246800022283072,
+  "best_model_accuracy": 0.925,
+  "classification_report": "              precision    recall  f1-score   support\n\n        High       0.93      0.93      0.93        27\n         Low       0.95      0.92      0.94       204\n      Medium       0.90      0.93      0.91       169\n\n    accuracy                           0.93       400\n   macro avg       0.92      0.93      0.92       400\nweighted avg       0.93      0.93      0.93       400\n"
+}
