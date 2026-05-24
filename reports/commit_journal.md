@@ -21,3 +21,4 @@
 - Commit 20: tune logistic regression regularization for stronger generalization.
 - Commit 21: add random forest training for nonlinear behavioral patterns.
 - Commit 22: tune random forest depth and leaf controls to limit overfitting.
+- Commit 23: add XGBoost training for boosted gradient-based classification.
