@@ -17,3 +17,4 @@
 - Commit 16: document work-life balance trend analysis.
 - Commit 17: formalize the preprocessing pipeline for reusable model training.
 - Commit 18: add the stratified train/test split and evaluation framing.
+- Commit 19: add logistic regression training as the first benchmark classifier.
