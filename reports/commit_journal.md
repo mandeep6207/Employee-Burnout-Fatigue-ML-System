@@ -5,3 +5,4 @@
 - Commit 4: document the data cleaning and type normalization rules used by the pipeline.
 - Commit 5: note the missing-value handling strategy and median imputation defaults.
 - Commit 6: add engineered productivity ratio signals to the behavioral feature set.
+- Commit 7: add fatigue-level engineering from work, screen, meeting, and sleep behavior.
