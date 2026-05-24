@@ -9,3 +9,4 @@
 - Commit 8: add the numerical scaling pipeline for model training.
 - Commit 9: add categorical encoding for day-type behavioral context.
 - Commit 10: document the burnout distribution analysis and class balance observations.
+- Commit 11: document the work-hour versus burnout analysis path.
