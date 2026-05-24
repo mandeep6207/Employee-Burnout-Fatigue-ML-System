@@ -7,3 +7,4 @@
 - Commit 6: add engineered productivity ratio signals to the behavioral feature set.
 - Commit 7: add fatigue-level engineering from work, screen, meeting, and sleep behavior.
 - Commit 8: add the numerical scaling pipeline for model training.
+- Commit 9: add categorical encoding for day-type behavioral context.
