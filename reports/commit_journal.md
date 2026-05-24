@@ -23,3 +23,4 @@
 - Commit 22: tune random forest depth and leaf controls to limit overfitting.
 - Commit 23: add XGBoost training for boosted gradient-based classification.
 - Commit 24: tune XGBoost regularization and tree sampling settings.
+- Commit 25: add cross-validation scoring for model comparison stability.
