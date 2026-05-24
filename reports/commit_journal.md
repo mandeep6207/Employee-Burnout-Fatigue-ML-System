@@ -12,3 +12,4 @@
 - Commit 11: document the work-hour versus burnout analysis path.
 - Commit 12: document the sleep-duration versus burnout analysis path.
 - Commit 13: document the fatigue correlation heatmap analysis.
+- Commit 14: document the productivity trend visualization workflow.
