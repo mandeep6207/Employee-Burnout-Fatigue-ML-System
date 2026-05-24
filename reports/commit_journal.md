@@ -20,3 +20,4 @@
 - Commit 19: add logistic regression training as the first benchmark classifier.
 - Commit 20: tune logistic regression regularization for stronger generalization.
 - Commit 21: add random forest training for nonlinear behavioral patterns.
+- Commit 22: tune random forest depth and leaf controls to limit overfitting.
